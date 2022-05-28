@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 -->
 <h1> 🌱 I’m currently learning Python, JavaScript. These days, I make Telegram bot such as getting news,stock information.</h1>
 <h2> 🤔 My tech stack</h2>
-[github](https://img.shields.io/github/all-contributors/rantadibot/rantadibox)
+![github](https://img.shields.io/github/all-contributors/rantadibot/rantadibox)
 
   
