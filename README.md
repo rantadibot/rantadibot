@@ -4,20 +4,17 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-<h1> 🌱 I’m currently learning Python, JavaScript. These days, I make Telegram bot such as getting news,stock information.</h1>
 <h2> 🤔 My Programming</h2>
 <div>
 <img src='https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff'>
 <img src='https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3'>
 <img src='https://img.shields.io/badge/-JavaScript-007ACC?style=for-the-badge&logo=javascript'>
-<img src='https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript'>
 </div>
+
+<h2> 🌱 These days I’m interested in...</h2>
+<div>
+<img src='https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript'>
+<img src='https://img.shields.io/badge/-Python-007ACC?style=for-the-badge&logo=python'>
+
+</div>  
