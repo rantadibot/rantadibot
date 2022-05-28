@@ -13,4 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align='right' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO_gvpiu0DAKEBC1DlbzRo_5KRg1knt7bKKA&usqp=CAU' width="300"/>
+<h1> 🌱 I’m currently learning Python, JavaScript. These days, I make Telegram bot such as getting news,stock information.</h1>
+<h1> 🤔 I’m looking for help with node.js, vue, css.</h1>
+
+  
+  
