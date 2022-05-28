@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 <img src='https://img.shields.io/badge/-TypeScript-CCB800?style=for-the-badge&logo=typescript'>
 <img src='https://img.shields.io/badge/-React-007ACC?style=for-the-badge&logo=react'>
 <img src='https://img.shields.io/badge/-NodeJS-7ACC00?style=for-the-badge&logo=node.js'>
-
+<img src='https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff'>
 </div>  
